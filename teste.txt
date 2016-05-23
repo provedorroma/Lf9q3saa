@@ -1,2 +1,0 @@
-Teste inicial com outro usuário
-git
