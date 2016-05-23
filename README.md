@@ -8,4 +8,21 @@
 * Leonardo Mello
 * Paulo Netto
 
-###### Comberweb 2016
+## A Estrutura
+
+A estrutura que proponho em nosso CMS e em nossos sites é essa. 
+
+* css/
+* js/
+* fonts/
+* images/
+* includes/
+  * config.php
+    * Este arquivo contém algumas coisas básicas, como: Caminho Físico do Projeto para ser utilizado em includes ou require, Caminho do Site para fazer include de js/css ou imagens, e outras configurações pertinentes ao projeto.
+  * head.php
+  * header.php
+  * footer.php
+* index.php
+* conteudo.php
+
+###### © Comberweb 2016
