@@ -5,8 +5,8 @@
 
 * Elton Almeida
 * Nicolas Sampaio
-* Leonardo Mello
-* Paulo Netto
+* Leonardo Mello ✓
+* Paulo Netto ✓
 
 ## A Estrutura
 
