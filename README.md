@@ -3,7 +3,7 @@
 
 ## Colaboradores:
 
-* Elton Almeida 
+* Elton Almeida ✓
 * Nicolas Sampaio
 * Leonardo Mello
 * Paulo Netto
